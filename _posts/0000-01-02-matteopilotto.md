@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go bac
+"The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle."
+Use the left arrow to go back
